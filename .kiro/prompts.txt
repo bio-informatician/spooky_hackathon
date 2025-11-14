@@ -1,0 +1,2 @@
+Prompt used to generate costume.py:
+"Python function to suggest random Halloween costumes based on user input theme"
